@@ -8,6 +8,9 @@ export const config: Config = {
       empty: false,
     },
     {
+      type: 'dist-custom-elements-bundle',
+    },
+    {
       type: 'docs-readme',
     },
     {
